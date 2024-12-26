@@ -1,0 +1,21 @@
+{
+    "name": "Open Says Me",
+    "short_name": "Kerri",
+    "description": "A simple PWA to display Kerri's QR code",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f4f4f4",
+    "theme_color": "#317EFB",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
