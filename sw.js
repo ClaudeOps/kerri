@@ -3,7 +3,7 @@ const ASSETS = [
     '/',
     '/index.html',
     '/styles.css',
-    '/qr-bw.png',
+    '/qr.png',
 ];
 
 // Install event
